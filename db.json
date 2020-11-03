@@ -1,1 +1,103 @@
-{}
+{
+  "people":[{
+  "id": 1,
+  "name": "Dur Domokos",
+  "email": "ddomokos0@amazon.com",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Gilles Godon",
+  "email": "ggodon1@cam.ac.uk",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Kippy Langridge",
+  "email": "klangridge2@yandex.ru",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Haley Twinterman",
+  "email": "htwinterman3@reverbnation.com",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Booth Sabati",
+  "email": "bsabati4@intel.com",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Leona Chittock",
+  "email": "lchittock5@wordpress.com",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Derron Wooding",
+  "email": "dwooding6@twitpic.com",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Helyn Hercules",
+  "email": "hhercules7@irs.gov",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Wash Redsell",
+  "email": "wredsell8@forbes.com",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Say Vause",
+  "email": "svause9@ihg.com",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Batsheva Skate",
+  "email": "bskatea@aol.com",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Isa Rosone",
+  "email": "irosoneb@flavors.me",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Romona Cordon",
+  "email": "rcordonc@blog.com",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Lenard Arling",
+  "email": "larlingd@csmonitor.com",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Ulrich Overnell",
+  "email": "uovernelle@patch.com",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Donnamarie Frizell",
+  "email": "dfrizellf@google.com.au",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Hilliard Byatt",
+  "email": "hbyattg@seattletimes.com",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Lira Champkins",
+  "email": "lchampkinsh@dell.com",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Reta Gricks",
+  "email": "rgricksi@istockphoto.com",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Karry Mordaunt",
+  "email": "kmordauntj@imgur.com",
+  "gender": "Female"
+}]
+}

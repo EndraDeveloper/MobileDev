@@ -1,3 +1,5 @@
+{
+  "people":
 [{
   "id": 1,
   "name": "Mal Trembley",
@@ -249,3 +251,4 @@
   "email": "apasso1d@histats.com",
   "gender": "Female"
 }]
+}
